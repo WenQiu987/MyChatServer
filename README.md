@@ -20,6 +20,9 @@ There are already compiled executable files of the server and client in the bin/
 If you compile it yourself, you can execute the following command:
 
 cd build
+
 rm-rf *
+
 cmake..
+
 make
